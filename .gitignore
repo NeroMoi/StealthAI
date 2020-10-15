@@ -1,0 +1,8 @@
+# ignore the Binaries
+Binaries
+# ignore the intermediate
+Intermediate
+# ignore the Saved
+Saved
+#ignore the .vs
+*.vs
